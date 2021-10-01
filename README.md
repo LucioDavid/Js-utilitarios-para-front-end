@@ -2,10 +2,10 @@
 Utilitários (scripts) em Javascript para Front-End.
 
 ### Conteúdo
-1. [compartilhar-noticia.js](https://github.com/LucioDavid/Js-utilitarios-para-front-end#compartilhar-noticia.js)
-2. [insere-texto.js](https://github.com/LucioDavid/Js-utilitarios-para-front-end#insere-texto.js)
-3. [ir-para-o-topo.js](https://github.com/LucioDavid/Js-utilitarios-para-front-end#ir-para-o-topo.js)
-4. [limpa-busca.js](https://github.com/LucioDavid/Js-utilitarios-para-front-end#limpa-busca.js)
+1. [compartilhar-noticia.js](https://github.com/LucioDavid/Js-utilitarios-para-front-end#1-compartilhar-noticiajs)
+2. [insere-texto.js](https://github.com/LucioDavid/Js-utilitarios-para-front-end#2-insere-textojs)
+3. [ir-para-o-topo.js](https://github.com/LucioDavid/Js-utilitarios-para-front-end#3-ir-para-o-topojs)
+4. [limpa-busca.js](https://github.com/LucioDavid/Js-utilitarios-para-front-end#4-limpa-buscajs)
 
 ### 1. compartilhar-noticia.js
 Script para compartilhar um link (foi utilizado para compartilhar uma notícia) no Facebook ou apenas copiar para a área de transferência.
